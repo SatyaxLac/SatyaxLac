@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SatyaxLac
+          outputs: |
+            dist/github-snake.svg?color_snake=%2300BFFF&color_dots=%23ebf5ff,%23cce6ff,%2399ccff,%2366b3ff,%230099ff
+            dist/github-snake-dark.svg?color_snake=%2358A6FF&color_dots=%230d1117,%23161b22,%230f3d66,%231f6feb,%2358A6FF
+
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
