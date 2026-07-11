@@ -84,22 +84,19 @@ I am a B.Tech student in **Mechanical Engineering** at **IIITDM Jabalpur** (Batc
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/satya532" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:satyapr532@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/u/satyapr532/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23EA8C35.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/satyapr532" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%235B4636.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23445.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/satyapv8li" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%232980B9.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
