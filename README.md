@@ -75,8 +75,8 @@ I am a B.Tech student in **Mechanical Engineering** at **IIITDM Jabalpur** (Batc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyaxLac&show_icons=true&theme=tokyonight&count_private=true" alt="Satya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaxLac&layout=compact&theme=tokyonight" alt="Satya's Top Languages" />
+  <img src="https://github-readme-stats-git.vercel.app/api?username=SatyaxLac&show_icons=true&theme=tokyonight&count_private=true" alt="Satya's GitHub Stats" />
+  <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=SatyaxLac&layout=compact&theme=tokyonight" alt="Satya's Top Languages" />
 </p>
 
 ---
